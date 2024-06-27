@@ -1,3 +1,5 @@
+google.com, pub-3040343657326246, DIRECT, f08c47fec0942fa0
+
 # CAS.ai Updated May 31, 2024, support@cleveradssolutions.com
 #=== GoogleAds Sep 01, 2023
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
