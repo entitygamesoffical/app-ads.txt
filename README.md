@@ -1,3 +1,4 @@
+google.com, pub-3040343657326246, DIRECT, f08c47fec0942fa0
 # CAS.ai Updated Jun 28, 2024, support@cleveradssolutions.com
 #=== GoogleAds Sep 01, 2023
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
@@ -2094,4 +2095,4 @@ vidoomy.com, 4350252, RESELLER
 webeyemob.com, 70107, RESELLER
 
 
-google.com, pub-3040343657326246, DIRECT, f08c47fec0942fa0
+
